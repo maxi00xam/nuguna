@@ -1,7 +1,7 @@
 ---
 title: FPGA 첫 포스팅
 dg-publish: true
-dg-homr: true
+dg-homr: false
 ---
 이 분야를 공부하면서 간략하게 정리를 해볼까 합니다.
 
